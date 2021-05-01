@@ -48,7 +48,7 @@ def start():
 	sleep(4)
 	print("\t MAY GOD BLESS YOU!! :)")
 	print("TO DAY IS YOUR DAY MY BRO TOWLE:")
-a=input("Enter your key :")
+a=("Enter your key :")
 b= "win"
 if b =="win":
    start()
