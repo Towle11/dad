@@ -49,7 +49,8 @@ def start():
 	print("\t MAY GOD BLESS YOU!! :)")
 	print("TO DAY IS YOUR DAY MY BRO TOWLE:")
 a=input("Enter your key :")
-if a =="win":
+b= "win"
+if b =="win":
    start()
 username = input("Enter Username:")
 password= input("Enter Password:")
